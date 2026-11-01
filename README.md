@@ -34,7 +34,7 @@ I work as an architect and hands-on lead: translating ambiguous business problem
 | **AI & GenAI** | LLMs (OpenAI, Claude, Gemini, Llama 4, DeepSeek, Gemma), RAG, embeddings, Qdrant, LangChain, Google ADK, MCP, A2A, prompt & context design, GitHub Copilot, Claude Code, Cursor |
 | **Languages** | C#, Java, Python, TypeScript, JavaScript, Kotlin, Swift, SQL, PHP |
 | **Back End & APIs** | ASP.NET Core / .NET 8, Spring Boot, Node.js / Express.js, Python (Flask, FastAPI), REST, GraphQL, EF Core, Clean Architecture |
-| **Game & 3D** | Unity 6 (URP, C#), WebGL, HTML5 Canvas games |
+| **Game & 3D** | Unity (C#), WebGL, HTML5 Canvas games |
 | **Front End & Mobile** | React, Next.js, Angular, Redux / NgRx / NGXS, Tailwind CSS, WebGL, Android (Kotlin), iOS (Swift), React Native |
 | **Cloud & Serverless** | Azure (Functions, Logic Apps, App Service, Azure SQL, Cosmos DB), AWS (Lambda, DynamoDB, API Gateway, S3, EC2, RDS, IAM, CloudWatch), GCP (Cloud Functions, Pub/Sub, Firestore), Vercel |
 | **Data** | PostgreSQL, MS SQL Server, Azure SQL, MySQL, Oracle, MongoDB, Cosmos DB, DynamoDB, Firestore, Supabase, Redis, Databricks, ETL |
@@ -103,10 +103,26 @@ Reusable agent skills that package my workflows for Claude:
 | [**PDF_merger**](https://github.com/NikhilBelwate/PDF_merger) / [**PDF_Splitter**](https://github.com/NikhilBelwate/PDF_Splitter) | Web tools for merging and splitting PDFs | JavaScript, Vercel | [🔗](https://pdfmerger.omega-x.com) / [🔗](https://pdfsplitter.omega-x.com) |
 | [**dino-runner**](https://github.com/NikhilBelwate/dino-runner) | Jumping-dinosaur endless runner in the style of Chrome's offline game: cacti, pterodactyls, day/night cycle, high score, touch controls, and offline play through a service worker | HTML, CSS, JavaScript (Canvas), PWA, GitHub Pages | [🔗](https://nikhilbelwate.github.io/dino-runner/) |
 
-### 🛠️ In Progress
-- 🌍 **Earth Explorer**: a new 3D project in **Unity 6** (Universal Render Pipeline, C#, new Input System), set up with Unity AI Assistant and on-device AI Inference. Early development; the repository is private for now.
+<details>
+<summary><b>📂 More public repositories</b></summary>
 
-I also build native Android (Kotlin) and iOS (Swift) apps and a range of private client work, including inventory, location-management and AR-measurement apps.
+| Repository | About | Language |
+|---|---|---|
+| [UnityDemo](https://github.com/NikhilBelwate/UnityDemo) | Unity 6 starter project | Unity / C# |
+| [Android_MLKIT_Demo](https://github.com/NikhilBelwate/Android_MLKIT_Demo) | Barcode scanning with Google ML Kit | Kotlin |
+| [Todo](https://github.com/NikhilBelwate/Todo) | React to-do app | TypeScript |
+| [kareo_connect](https://github.com/NikhilBelwate/kareo_connect) | API calls to Kareo | JavaScript |
+| [fbstore](https://github.com/NikhilBelwate/fbstore) | Firestore integration with Spring | Java |
+| [gst](https://github.com/NikhilBelwate/gst) · [Start](https://github.com/NikhilBelwate/Start) · [first](https://github.com/NikhilBelwate/first) | Micronaut applications | Java |
+| [addressbook](https://github.com/NikhilBelwate/addressbook) · [addressNode](https://github.com/NikhilBelwate/addressNode) · [addressnew](https://github.com/NikhilBelwate/addressnew) | Address book apps | JavaScript |
+| [IoT](https://github.com/NikhilBelwate/IoT) | Android project for testing Jenkins CI | Java |
+| [auto-answer](https://github.com/NikhilBelwate/auto-answer) | Android auto-answer app (exported from Google Code) | Java |
+| [webservice](https://github.com/NikhilBelwate/webservice) · [Demo](https://github.com/NikhilBelwate/Demo) | Java web service and demo | Java |
+| [pythonDemo](https://github.com/NikhilBelwate/pythonDemo) | Python demo | Python |
+| [htmldemo](https://github.com/NikhilBelwate/htmldemo) · [testDemo](https://github.com/NikhilBelwate/testDemo) · [tdcc](https://github.com/NikhilBelwate/tdcc) | HTML demos and experiments | HTML |
+| [atabproject](https://github.com/NikhilBelwate/atabproject) | Project for the Aakash tablet | — |
+
+</details>
 
 ## 🎓 Education & Credentials
 - **PG Diploma, Information Technology** — Douglas College, Vancouver (2023)
@@ -119,12 +135,9 @@ I also build native Android (Kotlin) and iOS (Swift) apps and a range of private
 Interested in AI/RAG solutions, event-driven architecture, cloud modernization or legacy-to-microservices migration? Reach me at [nikhil.beal@gmail.com](mailto:nikhil.beal@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/nikhil-belwate/).
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NikhilBelwate&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=NikhilBelwate&theme=dark&hide_border=false&include_all_commits=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NikhilBelwate&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilBelwate&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NikhilBelwate&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilBelwate&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NikhilBelwate&icon=0&color=0)](https://visitcount.itsvg.in)
